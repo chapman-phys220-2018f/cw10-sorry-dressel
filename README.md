@@ -1,10 +1,8 @@
 # PHYS220/MATH220/CPSC220 CW 10
 
-<<<<<<< HEAD
 **Author(s):** **Gwyneth & Amelia**
 =======
 **Author(s):** **Gwen & Amelia**
->>>>>>> 75684065703ebd9867513bb04243ffabc170d7f3
 
 ## Specification
 
@@ -73,8 +71,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-<<<<<<< HEAD
 **Gwyneth & Amelia**
-=======
-**Gwen & Amelia**
->>>>>>> 75684065703ebd9867513bb04243ffabc170d7f3
+
